@@ -1,0 +1,1 @@
+![Koshimizu Toru](pic.jpg)
