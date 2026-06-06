@@ -1,1 +1,1 @@
-![Koshimizu Toru](pic.jpg | width 200)
+<img src="pic.jpg" width="200">
