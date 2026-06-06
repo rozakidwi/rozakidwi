@@ -1,1 +1,1 @@
-![Koshimizu Toru](pic.jpg)
+![Koshimizu Toru](pic.jpg | width 200)
