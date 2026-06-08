@@ -1,3 +1,3 @@
-<img src="pic.jpg" width="200">
+<img src="pic.webp" width="200">
 
 weeb
